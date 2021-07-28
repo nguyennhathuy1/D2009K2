@@ -1,0 +1,85 @@
+/* CSS Document */
+.box{
+	height: 300px;
+	background: grey;
+}
+.logo{
+	overflow: hidden;
+}
+.logo img{
+	width: 40%;
+}
+.nav ul{
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+}
+.nav ul li{
+	margin: 0 24px;
+	box-sizing: border-box;
+	padding-top: 20px;
+	text-decoration: none;
+}
+.banner img{
+	width: 1200px;
+}
+.icon-box{
+	background: rgba(160,160,160,1.00);
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+.img-box img{
+	height: 200px;
+}
+.personal{
+	width: 100%;
+/*	background: lightgrey;*/
+	height: 500px;
+	padding: 100px 0;
+}
+.video{
+/*	margin-left: 500px;*/
+	width: 50%;
+/*	height: 0px;*/
+/*	background: grey;*/
+	float: left;
+	border-radius: 10px;
+}
+h4{
+	display: flex;
+	border-style: groove;
+	padding: 45px;
+	align-content: flex-end;
+	font-size: 20px;
+	text-decoration: none;
+	font-style: italic;
+	background: rgba(160,160,160,1.00);
+}
+h5{
+	display: flex;
+	font-size: 30px;
+	font-style:oblique;
+	margin: 10px;
+}
+h2{
+	text-align: center;
+}
+table, td{
+	border-collapse: collapse;
+	border-width: 2px;
+}
+td{
+	padding: 10px;
+}
+.box{
+	background: rgba(237,234,234,1.00);
+	width: 300px;
+	height: 100px;
+	padding: 50px;
+	margin: 0 auto;
+}
+imput{
+	width: 100%
+}
